@@ -1,0 +1,2 @@
+s={(m,n) for n in range(2) for m in range(3,5)}
+print(s)
